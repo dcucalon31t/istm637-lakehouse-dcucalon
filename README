@@ -1,0 +1,8 @@
+# ISTM 637 Governed Lakehouse Project
+
+**Name:** Diego Cucalon  
+**NetID:** dcucalon31  
+**Catalog:** istm637_dcucalon31
+
+This project builds a governed oil and gas lakehouse using Databricks,
+Unity Catalog, Lakeflow, Genie, AI/BI dashboards, MLflow, and Databricks Apps.
