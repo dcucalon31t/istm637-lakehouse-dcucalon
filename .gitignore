@@ -1,0 +1,31 @@
+# macOS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Local secrets and credentials
+.env
+.env.*
+*.share
+*.token
+*.pem
+*.key
+
+# Source data and generated local extracts
+*.csv
+*.tsv
+*.parquet
+*.zip
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
